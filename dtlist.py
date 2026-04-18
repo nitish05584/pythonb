@@ -1,0 +1,8 @@
+a=10
+print(a,type(a))
+a=10.5
+print(a,type(a))
+a=2+5j
+print(a,type(a))
+
+
