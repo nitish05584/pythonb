@@ -1,0 +1,8 @@
+w="welcome {} to {} wccubetech".format("hello",20)
+print(w)
+w="welcome {1} to {0} wccubetech".format("hello",20)
+print(w)
+w="welcome {name} to {company} wccubetech".format(name="hello",company=20)
+print(w)
+w="welcome {0} to {company} wccubetech".format("hello",company=20)
+print(w)
