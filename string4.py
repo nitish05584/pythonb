@@ -1,0 +1,12 @@
+w="welcome to wccubetech"
+n=w.lower()
+print(n)
+print()
+print(w.lower())
+print()
+print(w.upper())
+print()
+print(w.title())
+print()
+print(w.capitalize())
+print()
